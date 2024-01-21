@@ -1,1 +1,1 @@
-For code source follow 'src' folder
+For code source follow `src` folder.
